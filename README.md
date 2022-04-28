@@ -4,6 +4,7 @@ Advanced RP chat for roleplay server
 ### Features:
 - Basic commands (me, do, try, pd, ems, ....)
 - Here command - write text for a specific time anywhere on the map
+- Initials instead of full IC names
 - Custom commands - you can specify in the config
 
 ### Install:
@@ -13,4 +14,4 @@ Advanced RP chat for roleplay server
 
 
 This script is in BETA, if you find any error, please contact me in PM or on discord server `Gdany Scrips`
-If there is any problem, you can contact me on discord: `Gdany#2835`
+If there is any problem, you can contact me on discord: `Gdany#2835` or `ypsylon.#0069`
